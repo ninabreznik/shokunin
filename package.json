@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mimi-uxui-dev/shokunin.git"
+    "url": "git+https://github.com/ninabreznik/shokunin.git"
   },
-  "author": "Mimi from  mitsustudio.com",
+  "author": "Mimi from mitsustudio.com & ninabreznik from playproject.io",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mimi-uxui-dev/shokunin/issues"
+    "url": "https://github.com/ninabreznik/shokunin/issues"
   },
-  "homepage": "https://github.com/mimi-uxui-dev/shokunin#readme",
+  "homepage": "https://github.com/ninabreznik/shokunin#readme",
   "devDependencies": {
     "budo": "^11.7.0"
   },
